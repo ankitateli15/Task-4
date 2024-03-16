@@ -1,0 +1,17 @@
+.chart-container {
+    margin-top: 20px;
+  }
+  
+  .error {
+    color: red;
+  }
+  /* button{
+    background-color: #00ff73;
+    color: black;
+    border-radius: 5px;
+  } */
+
+ .card{
+  width: 250px;
+  
+ }
